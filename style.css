@@ -11,6 +11,10 @@ body{
     width: 100%;
 }
 
+section{
+    min-height: 300px;
+}
+
 footer,
 #one{
     background-color: #1F2937;
