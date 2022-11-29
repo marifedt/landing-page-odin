@@ -21,6 +21,13 @@ footer,
     color: #F9FAF8;
 }
 
+footer{
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 nav a{
     color: #F9FAF8;
     text-decoration: none;
